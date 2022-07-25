@@ -1,2 +1,3 @@
 # PDFReader_Main
-# PDFReader Python project to read PDF files.
+ 
+Python project to read PDF files.
